@@ -1,3 +1,3 @@
 # Mapeo
-![Columna](Mapeo_columna.png)
-![Fila](Mapeo_fila.png)
+![Columna](Mapeo_columna.jpg)
+![Fila](Mapeo_fila.jpg)
